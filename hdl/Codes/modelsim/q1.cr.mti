@@ -1,0 +1,44 @@
+C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/testbench.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/testbench.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity testbench
+-- Compiling architecture simulation of testbench
+
+} {} {}} C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/controller.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/controller.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controller
+-- Compiling architecture Behavioral of controller
+
+} {} {}} C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/top.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/top.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity top
+-- Compiling architecture Behavioral of top
+
+} {} {}} C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/datapath.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Projects/WPI/ObjectOriented/Midterm/Solution_Midterm/Q1/Codes/datapath.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity datapath
+-- Compiling architecture Behavioral of datapath
+
+} {} {}}
